@@ -41,13 +41,13 @@ public class Proyecto {
     }
 
     private static void mostrarMenu() {
-        System.out.println(-.-.-.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-..-.-.-.-.-..-.-.-.-.");
+        System.out.println("-.-.-.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-..-.-.-.-.-..-.-.-.-.");
         System.out.println("* Bienvenido al Catálogo de Productos.             *");
         System.out.println("* Selecciona una de las siguientes opciones:       *");
         System.out.println("* 1.) Buscar Producto                               *");
         System.out.println("* 2.) Agregar Producto                              *");
         System.out.println("* 3.) Eliminar Producto                             *");
-        System.out.printl("*  0.) Salir                                         *");
+        System.out.println("*  0.) Salir                                         *");
         System.out.println("-.-.-.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-..-.-.-.-.-..-.-.-.-.");
     }
 
